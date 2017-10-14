@@ -32,8 +32,6 @@ Calculator::Calculator(QWidget *parent) :
 
     //equal and decimal connections are done behind the scenes
 
-
-
     ui->pushButton_plus->setCheckable(true);
     ui->pushButton_minus->setCheckable(true);
     ui->pushButton_mul->setCheckable(true);
