@@ -38,10 +38,6 @@ Calculator::Calculator(QWidget *parent) :
     ui->pushButton_minus->setCheckable(true);
     ui->pushButton_mul->setCheckable(true);
     ui->pushButton_div->setCheckable(true);
-
-
-
-
 }
 
 Calculator::~Calculator()
